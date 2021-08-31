@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Traveling</string>
+
+    <string name="najava">Најава</string>
+    <string name="create_account">Креирај сметка</string>
+    <string name="forgot_password">Заборавена лозинка?</string>
+    <string name="change_passwors">Промени лозинка</string>
+    <string name="title_activity_all_markers">Map</string>
+
+    <string name="add_new_location">Нова локација</string>
+    <string name="logOut">Log Out</string>
+    <string name="settings">Подесувања</string>
+
+    <string name="username">Корисничко име</string>
+    <string name="email">e-mail</string>
+    <string name="password">лозинка</string>
+    <string name="repeat_password">повтори лозинка</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="makeNewMarker">Додај маркер</string>
+    <string name="saveMarker">Зачувај</string>
+    <string name="enter_Details_for_the_location">Внесете опис за локацијата</string>
+    <string name="pick_an_Image">Слика</string>
+    <string name="location_name">Назив на локацијата</string>
+
+    <string name="distance_in_kilometers">Одалеченост :</string>
+    <string name="altitude">Надморска височина</string>
+    <string name="comments">Коментари</string>
+    
+    <string name="congratulations">Честитки!!!</string>
+
+    <string name="part1">
+        Успешно креиравте сметка.
+    </string>
+    <string name="part2">
+        Проверете го вашето e-mail сандаче за верификација на сметката.
+    </string>
+    <string name="part3">
+        Најавете се и уживајте на локациите кои се веќе креирани или креирајте нова локација.
+    </string>
+
+</resources>
